@@ -1,0 +1,17 @@
+{
+  "name": "lang-detector-bot",
+  "env": {
+    "TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": ""
+}
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
