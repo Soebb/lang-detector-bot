@@ -6,7 +6,7 @@ This is a repository with demonstration code that uses [the Silero VAD Language 
 
 ## Deploy to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soebb/spotify_downloader_telegram__bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soebb/lang-detector-bot)
 
 
 ## How to run locally:
